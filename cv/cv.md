@@ -1,8 +1,8 @@
 # Nirupam Modak
-  Bangladesh[+6 GMT]
+  Bangladesh [+6 GMT]
 
 # Overview
-I am Nirupam Modak, 5+ years with NopCommerce theme design/plugin development and core feature customization, upgrading NopCommerce version and a player in C#/ASP.NET MVC/SQL Server areas. 
+I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin development and core feature customization, upgrading NopCommerce version and a player in C#/ASP.NET MVC/SQL Server areas. 
 
 # Working Areas
 
@@ -16,11 +16,8 @@ I am Nirupam Modak, 5+ years with NopCommerce theme design/plugin development an
 
 # AREA OF INTERESTE
 	NopCommerce, 
-	</br>
 	ElasticSearch, 
-	</br>
 	AWS (Auto Scaling, ELB, S3, EC3, VPC, Cloudfront etc), 
-	</br>
 	SQL Server tuning etc.
 
 # Projects Done

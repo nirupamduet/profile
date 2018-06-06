@@ -22,16 +22,23 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 2. Sample Demo site 
    http://ghuree.com.ivy.arvixe.com/
 
-3. https://www.othoba.com
+3. https://www.othoba.com  [Ongoing]
   
 # Plugin Development
 
 1. Slide Banner Plugin (IWidget)
 2. Left Banner Plugin (IWidget)
-3. City Bank Payment Integration (IPayment)
-
-
+3. City Bank Payment Integration (IPaymentMethod)
+   https://www.thecitybank.com/
+   Stunnel based, Telnet
+4. iPay Payment Plugin ((IPaymentMethod))
+   https://www.ipay.com.bd/
+   REST API based
+5. Payza Integration (IPaymentMethod)
+   https://www.payza.eu/bangladesh/
+   
 # Contacts
 
-Email : nirupam.duet@gmail.com.
+Email : nirupam.duet@gmail.com
+</br>
 Skype : nirupam.duet

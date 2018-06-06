@@ -25,7 +25,8 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
    </br>
    http://ghuree.com.ivy.arvixe.com/
    </br>
-   <img src="https://raw.githubusercontent.com/nirupamduet/profile/master/images/ghuree.png"/>
+   ![alt text](https://raw.githubusercontent.com/nirupamduet/profile/master/images/ghuree.png)
+
 3. https://www.othoba.com  [Ongoing]
   
 # Plugin Development

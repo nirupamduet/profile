@@ -16,10 +16,12 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 # Projects Done
 
 1. https://www.biponee.com => [Closed & Migrated to other platform]
+</br>
    Still you can see this from http://web.archive.org/web/20130208091047/http://www.biponee.com:80/
-   or see image 
-
+   </br>
+   or see <a src="https://raw.githubusercontent.com/nirupamduet/profile/master/images/biponee.png"> image </a>
 2. Sample Demo site 
+</br>
    http://ghuree.com.ivy.arvixe.com/
 
 3. https://www.othoba.com  [Ongoing]
@@ -29,13 +31,14 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 1. Slide Banner Plugin (IWidget)
 2. Left Banner Plugin (IWidget)
 3. City Bank Payment Integration (IPaymentMethod)
+</br>
    https://www.thecitybank.com/
-   Stunnel based, Telnet
+   </br>Stunnel based, Telnet
 4. iPay Payment Plugin ((IPaymentMethod))
-   https://www.ipay.com.bd/
-   REST API based
+</br>   https://www.ipay.com.bd/
+   </br>REST API based
 5. Payza Integration (IPaymentMethod)
-   https://www.payza.eu/bangladesh/
+   </br>https://www.payza.eu/bangladesh/
    
 # Contacts
 

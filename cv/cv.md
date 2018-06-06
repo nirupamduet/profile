@@ -1,8 +1,8 @@
 # Nirupam Modak
-# Bangladesh, [+6 GMT]
+  Bangladesh [+6 GMT]
 
 # Overview
-I am Nirupam Modak, 5+ years with NopCommerce theme/plugin development and customization and a player in C#/ASP.NET MVC/SQL Server fields. 
+I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin development and core feature customization, upgrading NopCommerce version and a player in C#/ASP.NET MVC/SQL Server areas. 
 
 # Working Areas
 
@@ -16,19 +16,16 @@ I am Nirupam Modak, 5+ years with NopCommerce theme/plugin development and custo
 
 # AREA OF INTERESTE
 	NopCommerce, 
-	</br>
 	ElasticSearch, 
-	</br>
-	AWS (Auto Scaling, ELB, S3, EC3, VPC, Cloudfront etc), 
-	</br>
+	AWS (Auto Scaling, ELB, S3, EC2, VPC, Cloudfront etc), 
 	SQL Server tuning etc.
 
 # Projects Done
 
 1. https://www.biponee.com => [Closed & Migrated to other platform]
+   </br>
    Still you can see this from http://web.archive.org/web/20130208091047/http://www.biponee.com:80/
-   or see image 
-
+   ![alt text](https://raw.githubusercontent.com/nirupamduet/profile/master/cp/biponee.png)
 2. Sample Demo site 
    http://ghuree.com.ivy.arvixe.com/
 

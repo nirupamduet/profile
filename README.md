@@ -19,11 +19,13 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
    </br>
    Still you can see this from http://web.archive.org/web/20130208091047/http://www.biponee.com:80/
    </br>
-   or see <a src="https://raw.githubusercontent.com/nirupamduet/profile/master/images/biponee.png"> image </a>
+   
+   <img src="https://raw.githubusercontent.com/nirupamduet/profile/master/images/biponee.png"/>
 2. Sample Demo site 
    </br>
    http://ghuree.com.ivy.arvixe.com/
-
+   </br>
+   <img src="https://raw.githubusercontent.com/nirupamduet/profile/master/images/ghuree.png"/>
 3. https://www.othoba.com  [Ongoing]
   
 # Plugin Development

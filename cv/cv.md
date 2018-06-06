@@ -17,7 +17,7 @@ I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin dev
 # AREA OF INTERESTE
 	NopCommerce, 
 	ElasticSearch, 
-	AWS (Auto Scaling, ELB, S3, EC3, VPC, Cloudfront etc), 
+	AWS (Auto Scaling, ELB, S3, EC2, VPC, Cloudfront etc), 
 	SQL Server tuning etc.
 
 # Projects Done
@@ -25,7 +25,7 @@ I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin dev
 1. https://www.biponee.com => [Closed & Migrated to other platform]
    </br>
    Still you can see this from http://web.archive.org/web/20130208091047/http://www.biponee.com:80/
-   
+   ![alt text](https://raw.githubusercontent.com/nirupamduet/profile/master/cp/biponee.png)
 2. Sample Demo site 
    http://ghuree.com.ivy.arvixe.com/
 

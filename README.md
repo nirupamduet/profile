@@ -12,8 +12,21 @@ I have been working with NopCommerce for 5+ years.
 6. Feature Implementation
 
 
-# Projects
+# Projects Done
 
-1. https:///www.biponee.com => not continuing anymore
-2. https:///www.biponee.com => not continuing anymore
-3. https:///www.othoba.com
+1. https://www.biponee.com => [Closed & Migrated to other platform]
+   Still you can see this from http://web.archive.org/web/*/www.biponee.com
+   
+2. https://www.ghuree.com => not continuing anymore
+
+3. https://www.othoba.com
+
+
+# Plugin Development
+
+1. Slide Banner Plugin (IWidget)
+
+# Contact
+
+Email : nirupam.duet@gmail.com
+Skype : nirupam.duet

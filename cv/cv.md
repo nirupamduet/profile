@@ -2,7 +2,7 @@
   Bangladesh [+6 GMT]
 
 # Overview
-I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin development and core feature customization, upgrading NopCommerce version and a player in C#/ASP.NET MVC/SQL Server areas. 
+I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin development, core feature customization, upgrading NopCommerce version and a player in C#/ASP.NET MVC/SQL Server areas. 
 
 # Working Areas
 

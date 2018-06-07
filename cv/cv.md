@@ -48,6 +48,18 @@ I am Nirupam Modak, 5+ years experience with NopCommerce theme design/plugin dev
 5. Payza Integration (IPaymentMethod)
    https://www.payza.eu/bangladesh/
    
+6. [Auction Plugin](https://github.com/nirupamduet/profile/blob/master/plugins/auction.md)
+
+7. [EMI Feature](https://github.com/nirupamduet/profile/blob/master/plugins/emi.md)
+
+8. [Extended Order Management](https://github.com/nirupamduet/profile/blob/master/plugins/ordermgt.md)
+
+9. [Products Ribbon](https://github.com/nirupamduet/profile/blob/master/plugins/ribbon.md)
+
+10. [AWS S3/CloudFront Migration](https://github.com/nirupamduet/profile/blob/master/plugins/s3.md)
+
+11. [Extended Sales Report](https://github.com/nirupamduet/profile/blob/master/plugins/sales.md)
+
 # Contacts
 
 Email : nirupam.duet@gmail.com

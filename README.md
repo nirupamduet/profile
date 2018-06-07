@@ -46,18 +46,12 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 5. Payza Integration (IPaymentMethod)
    </br>
    https://www.payza.eu/bangladesh/
-6. Auction Plugin
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/auction.md)
-7. EMI
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/emi.md)
-7. Order Management
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/ordermgt.md)
-8. Products Ribbon
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/ribbon.md)
-8. AWS S3/CloudFront
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/s3.md)
-8. Sales Report
-   [see](https://github.com/nirupamduet/profile/blob/master/plugins/sales.md)
+6. [Auction Plugin](https://github.com/nirupamduet/profile/blob/master/plugins/auction.md)
+7. [EMI](https://github.com/nirupamduet/profile/blob/master/plugins/emi.md)
+7. [Order Management](https://github.com/nirupamduet/profile/blob/master/plugins/ordermgt.md)
+8. [Products Ribbon](https://github.com/nirupamduet/profile/blob/master/plugins/ribbon.md)
+8. [AWS S3/CloudFront](https://github.com/nirupamduet/profile/blob/master/plugins/s3.md)
+8. [Sales Report](https://github.com/nirupamduet/profile/blob/master/plugins/sales.md)
 
    
 # Contacts

@@ -6,7 +6,7 @@
 
 1. REST API based plugin.
 
-2. Admin panel will have transaction log for each order.
+2. Admin panel will have transaction log for each transaction for ipay.
     
 # Contacts
 

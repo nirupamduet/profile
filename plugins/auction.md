@@ -1,5 +1,6 @@
 # Auction Plugin
    ![alt text](https://raw.githubusercontent.com/nirupamduet/profile/master/images/auction.png)
+   </br>
    Process of selling goods at NopCommerce, taking bids and then selling items to the highest bidder.
 
 # Feature

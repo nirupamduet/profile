@@ -1,6 +1,6 @@
 # Product Ribbon
-    You will be able to put level to products box.
-	Source code will be uploaded soon.
+  You will be able to put label to products box.
+  Source code will be uploaded soon.
 # Feature
 
 1. Admin panel for ribbon

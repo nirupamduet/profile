@@ -17,6 +17,11 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 
 1. AWS SES email service extension for NopCommerce https://github.com/nirupamduet/profile/blob/master/AwsSesEmailSender.cs
 
+2. AWS Picture service extension for NopCommerce https://github.com/nirupamduet/profile/blob/master/AWSPictureService.cs
+
+3. AWS S3 Caching Helper for NopCommerce https://github.com/nirupamduet/profile/blob/master/S3CachingHelper.cs
+   I have used it to store cached html. Its very helpfull when running multiple app server.
+
 
 # Projects Done
 

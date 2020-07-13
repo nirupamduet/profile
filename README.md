@@ -2,7 +2,7 @@
 I am Nirupam Modak, If you are looking for NopCommerce things then its for you. 
 
 # Experience
-  5+ years with NopCommerce. 
+  6+ years with NopCommerce. 
 
 # Working Areas
 1. Theme Development 
@@ -12,6 +12,11 @@ I am Nirupam Modak, If you are looking for NopCommerce things then its for you.
 5. Admin Area Customization
 6. Feature Implementation
 7. Setup Server/Database/AWS migration
+
+# Sample Code base
+
+1. AWS SES email service extension for NopCommerce https://github.com/nirupamduet/profile/blob/master/AwsSesEmailSender.cs
+
 
 # Projects Done
 

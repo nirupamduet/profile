@@ -2,7 +2,7 @@
 I am Nirupam Modak, If you are looking for NopCommerce things then its for you. 
 
 # Experience
-  6+ years with NopCommerce. 
+  8+ years with NopCommerce. 
 
 # Working Areas
 1. Theme Development 
